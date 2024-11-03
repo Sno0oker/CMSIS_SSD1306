@@ -1,0 +1,8 @@
+"./CMSIS/Src/system_stm32f1xx.o"
+"./Src/delay.o"
+"./Src/main.o"
+"./Src/spi.o"
+"./Src/ssd1306.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c6tx.o"
